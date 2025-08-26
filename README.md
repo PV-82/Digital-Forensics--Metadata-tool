@@ -28,6 +28,6 @@ ExifImageLength,4032
 
 ## ⚙️ Installation
 ```bash
-git clone https://github.com/YOUR_USERNAME/digital-forensics-metadata-tool.git
+git clone https://github.com/PV-82/digital-forensics-metadata-tool.git
 cd digital-forensics-metadata-tool
 pip install -r requirements.txt
