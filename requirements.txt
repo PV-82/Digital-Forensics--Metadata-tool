@@ -1,0 +1,5 @@
+exifread
+PyPDF2
+python-docx
+pandas
+folium
